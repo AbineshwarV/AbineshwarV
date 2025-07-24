@@ -7,11 +7,12 @@
 ---
 
 ### 💫 About Me
-- 🎓 CSE Student | B.Tech  
-- 💡 Passionate about Java, Web Dev, and Problem Solving  
-- ⚡ Currently working on **Core Java Projects**  
+- 🎓 CSE Student | B.Tech, Data Science Student | BS  
+- 💡 Passionate about Java, Full-stack development, MERN-Stack, Python and Problem Solving  
+- ⚡ Currently working on **Java Projects**  
 - 🌱 Learning full-stack development  
-- 🔗 Check out my repositories and contributions!
+-  📫 Reach me at: **abineshwarv@example.com**
+
 
 ---
 
