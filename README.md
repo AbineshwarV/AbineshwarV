@@ -11,7 +11,7 @@
 - 💡 Passionate about Java, Full-stack development, MERN-Stack, Python and Problem Solving  
 - ⚡ Currently working on **Java Projects**  
 - 🌱 Learning full-stack development  
--  📫 Reach me at: **abineshwarv@gmail.com**
+-  📫 Reach me at: **abineshwarv01@gmail.com**
 
 
 ---
