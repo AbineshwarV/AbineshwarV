@@ -13,7 +13,7 @@
 ---
 
 ### 💫 About Me
-- 🎓 CSE Student | B.Tech in Data Science  
+- 🎓 CSE Student in B.Tech | Data Science Student in BS
 - 💡 Java, Full-Stack, MERN, Python & Problem Solving  
 - ⚡ Currently working on **Java Projects**  
 - 🌱 Learning full-stack development  
