@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Abineshwar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&color=F7B801&center=true&vCenter=true&lines=Passionate+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&color=6daaf2&center=true&vCenter=true&lines=Passionate+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
