@@ -1,6 +1,6 @@
 <!-- 🌄 Cover Image -->
 <p align="center">
-  <img src="" alt="Cover Image" width="100%" />
+  <img src="https://github.com/AbineshwarV/AbineshwarV/blob/21cb8649363d89a34eeefae8acf353e7217d74f9/Profile%20Banner.png" alt="Cover Image" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Abineshwar 👋</h1>
