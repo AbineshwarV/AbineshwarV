@@ -1,6 +1,6 @@
 <!-- 🌄 Cover Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbineshwarV/AbineshwarV/main/assets/A_GitHub_profile_README_image_showcases_Abineshwar.png" alt="Cover Image" width="100%" />
+  <img src="https://github.com/AbineshwarV/AbineshwarV/blob/main/Untitled%402x.jpg" alt="Cover Image" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Abineshwar 👋</h1>
